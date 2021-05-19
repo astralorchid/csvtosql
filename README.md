@@ -7,7 +7,7 @@ turns .csv converted Excel spreadsheets (or any csv in general) into MySQL code 
 
 <br />
 
-argument 0: csvtosql <br />
+argument 0: 'csvtosql' <br />
 argument 1: csv file location <br />
 argument 2: 'create' - adds code to create a new table; 'add' - omits some generated code if the table already exists <br />
 argument 3: the name of the table (will be the name of the generated sql file) <br />
